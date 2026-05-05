@@ -14,3 +14,5 @@ Generated with the Flutter Scaffolding Wizard.
 flutter pub get
 flutter run
 ```
+
+Thank you.
